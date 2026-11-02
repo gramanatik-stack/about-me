@@ -22,7 +22,7 @@ Logo Gramanatik dibuat sendiri oleh pemilik. Dilarang menggunakan
 logo atau nama ini tanpa izin tertulis.
 
 <p align="center">
-  <img src="assets/logo-gramanatik.png" alt="Logo Gramanatik" width="200">
+  <img src="assets/logo.jpeg" alt="Logo Gramanatik" width="200">
 </p>
 
 File sumber: `assets/logo-gramanatik.svg` (atau format asli desainmu)
